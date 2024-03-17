@@ -14,6 +14,8 @@
 <h2>Tools</h2>
 <div>
   <img src="https://img.shields.io/badge/Visual Studio Code-FFFFFF?style=flat-square&logo=Visual Studio Code&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/Android Studio-FFFFFF?style=flat-square&logo=Android Studio&logoColor=3DDC84"/>
+  
 </div>
 
 <!--
