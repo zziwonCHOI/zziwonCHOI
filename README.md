@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/React?style=flat-square&logo=React&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF"/>
 
 <!--
 **zziwonCHOI/zziwonCHOI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
