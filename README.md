@@ -13,7 +13,7 @@
 
 <h2>Tools</h2>
 <div>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-FFFFFF?style=flat-square&logo=Visual Studio Code&logoColor=007ACC"/>
 </div>
 
 <!--
