@@ -2,7 +2,7 @@
 
 
 <h3>💪🏻 Skills</h3>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/><br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/><span/>
 <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=FFFFFF"/>
 
 <!--
