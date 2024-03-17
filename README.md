@@ -1,8 +1,8 @@
-### Hi there! I'm a computer science student aspiring to become a front-end developer.👋 
-I develop web with JavaScript or app with TypeStript. 
+### Hi there! I aspire to become a mobile app developer. 👋 
+I develop websites with JavaScript or mobile app with TypeStript. 
 
-
-
+I enjoy cleaning and sleeping. 🧹🛌
+My life motto is 'If at first you don't succeed, try, try again.🔁
 
 <h3>💪🏻 Skills</h3>
 <h2>Platforms & Languages</h2>
