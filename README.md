@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! I'm a computer science student aspiring to become a front-end developer.👋 
+I develop web with JavaScript or app with TypeStript. 
+
+
 
 
 <h3>💪🏻 Skills</h3>
