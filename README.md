@@ -1,5 +1,5 @@
 ### Hi there! I aspire to become a mobile app developer. 👋 
-I develop websites with JavaScript or mobile app with TypeStript. 
+I develop websites with JavaScript or mobile app with TypeScript. 
 
 I enjoy cleaning and sleeping. 🧹🛌
 My life motto is 'If at first you don't succeed, try, try again.🔁
