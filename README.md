@@ -15,6 +15,8 @@
 <div>
   <img src="https://img.shields.io/badge/Visual Studio Code-FFFFFF?style=flat-square&logo=Visual Studio Code&logoColor=007ACC"/>
   <img src="https://img.shields.io/badge/Android Studio-FFFFFF?style=flat-square&logo=Android Studio&logoColor=3DDC84"/>
+  <img src="https://img.shields.io/badge/Git-#F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/>
+  
   
 </div>
 
