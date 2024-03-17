@@ -2,8 +2,10 @@
 
 
 <h3>💪🏻 Skills</h3>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/><span/>
-<img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=FFFFFF"/>
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=FFFFFF"/>
+</div>
 
 <!--
 **zziwonCHOI/zziwonCHOI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
