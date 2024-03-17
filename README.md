@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+💪🏻 Skills
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/>
 
 <!--
