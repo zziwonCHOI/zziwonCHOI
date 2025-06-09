@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 -->
 <br><br><br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnjssem6)](https://solved.ac/wldnjssem6/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zziwonchoi&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/wldnjssem6" width="600" height="300"/></a>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zziwonchoi&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/wldnjssem6" width="600" height="300"/></a>-->
